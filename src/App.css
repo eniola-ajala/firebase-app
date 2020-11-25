@@ -1,0 +1,87 @@
+nav .nav-wrapper{
+    background-color: white;
+    border-bottom: 1px solid #80808045;
+}
+.head {
+    background-color: #3d155f;
+    height: 450px;
+    
+}
+.header-left{
+    width: 50%;
+    padding: 5em 2em;
+
+}
+.who-we-are-section {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: 0px auto;
+}
+.who-we-are {
+    background-color: #f5f4ff;
+    padding: 40px;
+}
+
+.who-we-are h4 {
+    margin-top: 0px;
+}
+@media screen and (max-width:600px){
+    .head {
+        background-color: red;
+        height: 400px;
+        
+    }
+    .who-we-are-section {
+        /* display: block; */
+        /* align-items: center; */
+        width: 90%;
+        margin: 0px auto;
+        flex-direction: column;
+    }
+
+}
+@media screen and (min-width:300px) and (max-width:800px){
+    .head {
+        background-color:#3d155f;
+        height: 510px;
+        width: 100%;
+        
+    }
+    .header-left{
+        width: 70%;
+        padding: 2em 3em;
+    
+    }
+    .who-we-are-section {
+        display: block;
+        align-items: center;
+        width: 90%;
+        margin: 0px auto;
+    }
+
+}
+.btn-login{
+
+}
+.signup, .signin{
+    width: 40%;
+    /* border: 2px solid gray; */
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 0 4px 2px rgba(38,153,251, .18);
+}
+.signup-title{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
+input{
+    width: 100%;
+    padding: 10px 12px;
+}
+.btn-signup, .btn-login{
+    width: 100%;
+}
+
+
