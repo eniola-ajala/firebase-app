@@ -13,13 +13,7 @@ export default function Home({handleLogout, displayName}) {
 
     const uid = localStorage.getItem('uid');
 
-    useEffect(()=>{
-        if(!uid){
-            history.push('/');
-
-        }
-
-    },[uid, history]);
+    
 
     const handleChange =(e)=>{
         const {name, value} = e.currentTarget;

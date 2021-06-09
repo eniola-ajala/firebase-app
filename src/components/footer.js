@@ -4,22 +4,22 @@ import { Footer } from "react-materialize";
 export default function CustomFooter() {
   return (
     <Footer 
-      className="example"
-      copyrights="&#169; copy 2020 Copyright Text"
+      className="example grey"
+      copyrights="&#169; copy 2020 "
       links={
         <ul>
           <li>
-            <a className="grey-text text-lighten-3" href="#!">
+            <a className="grey-text text-lighten-3" href="#home">
               Home
             </a>
           </li>
           <li>
-            <a className="grey-text text-lighten-3" href="#!">
+            <a className="grey-text text-lighten-3" href="#feature">
               Feature
             </a>
           </li>
           <li>
-            <a className="grey-text text-lighten-3" href="#!">
+            <a className="grey-text text-lighten-3" href="#signup">
               Signup
             </a>
           </li>
@@ -32,13 +32,13 @@ export default function CustomFooter() {
       }
       moreLinks={
         <a className="grey-text text-lighten-4 right" href="#!">
-          More Links
+      
         </a>
       }
     >
-      <h5 className="white-text">Footer Content</h5>
+      <h5 className="white-text">Ennie Tech</h5>
       <p className="grey-text text-lighten-4">
-        You can use rows and columns here to organize your footer content.
+        Our hub is your dream place to write codes.
       </p>
     </Footer>
   );
