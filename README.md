@@ -1,6 +1,6 @@
 # This website's backend was integrated with Firebase 
 This was one of the projects done during Pearls Africa Foundation Bootcamp.
-
+The project was done to flex my skills of materialize css
 
 # Getting Started with Create React App
 
