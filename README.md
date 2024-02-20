@@ -3,9 +3,6 @@ This was one of the projects done during Pearls Africa Foundation Bootcamp.
 
 The project was done to practice my skils of materialize css, react-bootstap.
 
-
-# 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
