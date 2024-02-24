@@ -1,4 +1,4 @@
-# This website's backend was integrated w
+# This website's backend was 
 This was one of the projects done during Pearls Africa Foundation Bootcamp.
 
 The project was done to practice my skils of materialize css, react-bootstap.
