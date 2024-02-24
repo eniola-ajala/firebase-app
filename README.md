@@ -1,4 +1,4 @@
-#
+
 This was one of the projects done during Pearls Africa Foundation Bootcamp.
 
 The project was done to practice my skils of materialize css, react-bootstap.
